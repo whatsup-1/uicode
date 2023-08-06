@@ -1,1 +1,1 @@
-/*it is a java file with comments
+it is a java file with comments
